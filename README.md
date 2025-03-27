@@ -18,6 +18,7 @@ A test script (`test_traffic.py`) has been developed to verify the correct opera
 
 - `Unittest`
 - `TensorFlow`
+- `Scikit-learn`
 
 ### Usage
 
